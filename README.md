@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/IL-TUO-PROFILO">
-<strong>Il mio profilo LinkedIn</strong>
+<strong>Il mio profilo LinkedIn 🇮🇹 🇬🇧</strong>
 </a>
 </p>
 
