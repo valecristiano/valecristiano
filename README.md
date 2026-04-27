@@ -50,5 +50,5 @@ Attualmente sto completando il Master Full-stack Web Development di Boolean Tech
 <h3>🚀 In fase di apprendimento</h3>
 
 <p>
-Attualmente mi sto specializzando in <strong>PHP e Laravel</strong> per approfondire ulteriormente le dinamiche di integrazione tra i diversi livelli di un'applicazione e rafforzare la mia preparazione Full-stack.
+Mi sto specializzando in <strong>PHP e Laravel</strong> per approfondire ulteriormente le dinamiche di integrazione tra i diversi livelli di un'applicazione e rafforzare la mia preparazione Full-stack.
 </p>
