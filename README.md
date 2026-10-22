@@ -9,8 +9,8 @@
 </a>
 </p>
 
-<p>
-Attualmente sto completando il Master Full-stack Web Development di Boolean Tech Academy, dove sto consolidando le mie competenze nello sviluppo di applicazioni web complete.
+<p align="center">
+Junior Web Developer con formazione in Full-Stack Web Development e specializzazione in PHP/Laravel presso Boolean Tech Academy
 </p>
 
 <h3>🛠 Il mio Tech Stack</h3>
@@ -31,6 +31,8 @@ Attualmente sto completando il Master Full-stack Web Development di Boolean Tech
 
   Node.js & Express.js
 
+  PHP e Laravel
+
   Sviluppo REST API & Operazioni CRUD
 
 - **Database**
@@ -45,10 +47,4 @@ Attualmente sto completando il Master Full-stack Web Development di Boolean Tech
 
   Postman
 
-  Sviluppo assistito da AI (GitHub Copilot)
-
-<h3>🚀 In fase di apprendimento</h3>
-
-<p>
-Mi sto specializzando in <strong>PHP e Laravel</strong> per approfondire ulteriormente le dinamiche di integrazione tra i diversi livelli di un'applicazione e rafforzare la mia preparazione Full-stack.
-</p>
+  Sviluppo assistito da AI
