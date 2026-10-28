@@ -4,7 +4,7 @@
 <strong>Junior Developer </strong>
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/IL-TUO-PROFILO">
+<a href="www.linkedin.com/in/valeria-diana-cristiano">
 <strong>Il mio profilo LinkedIn 🇮🇹 🇬🇧</strong>
 </a>
 </p>
