@@ -1,7 +1,7 @@
 <h2 align="center">Ciao, sono Valeria 👋</h2>
 
 <p align="center">
-<strong>Junior Web Developer </strong>
+<strong>Junior Developer </strong>
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/IL-TUO-PROFILO">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Junior Web Developer con formazione in Full-Stack Web Development e specializzazione in PHP/Laravel presso Boolean Tech Academy
+Junior Developer con formazione in Full-Stack Development e specializzazione in PHP/Laravel presso Boolean Tech Academy
 </p>
 
 <h3>🛠 Il mio Tech Stack</h3>
